@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx-low_level_programming
+this is the c section
