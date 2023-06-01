@@ -1,4 +1,4 @@
-#include <mai.h>
+#include <main.h>
 
 /**
  * print_fib_x50 - prints the first 50 Fibonacci numbers,
