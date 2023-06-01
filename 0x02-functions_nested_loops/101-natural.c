@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - entry point
  * Description:program prints the sum of all the multiples of 3 or 5
