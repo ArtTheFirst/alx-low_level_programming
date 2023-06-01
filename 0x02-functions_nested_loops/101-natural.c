@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * main - entry point
  * Description:program prints the sum of all the multiples of 3 or 5
@@ -18,3 +18,4 @@ int main(void)
 	printf("%d\n", s);
 
 	return (0);
+
