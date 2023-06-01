@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char *h = "artthefirst\n";
+	char *h = "main\n";
 
 	while (*h)
 	{
