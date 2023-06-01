@@ -14,4 +14,3 @@ int _islower(char c)
 	}
 	return (0);
 }
-i
